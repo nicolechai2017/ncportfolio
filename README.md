@@ -2,7 +2,8 @@
 A simple mockup of my portfolio - Built with React and Chakra UI
 
 # :pushpin: Screenshots
-
+<img src="ncportfolio1.png">
+<img src="ncportfolio2.png">
 
 # :pushpin: Running Locally
 
